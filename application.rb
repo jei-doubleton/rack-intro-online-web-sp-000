@@ -6,4 +6,6 @@ class Application
     resp.finish
   end
 
+  @hearteyes = "\1F60D"
+
 end
